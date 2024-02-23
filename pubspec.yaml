@@ -1,7 +1,7 @@
 name: gemma
 description: A wrapper around the Gemma AI models.
 version: 0.0.1
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/zTomz/gemma
 
 environment:
   sdk: ^3.3.0
